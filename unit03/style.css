@@ -1,5 +1,6 @@
 body {
-	background-image: url("/unit03/assets/background.jpg")
+	background-image: url("/unit03/assets/background.jpg");
+	background: cover;
 
 }
 
