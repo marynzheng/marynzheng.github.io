@@ -1,10 +1,33 @@
 body {
-	background-image: url("/unit03/assets/background.jpg");
-	background-position: cover;
+	background-image: url("unit03/assets/background.jpg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center bottom;
+	background-color: #52596B;
+	background-size: cover;
+	color: #ffffff;
+
+}
+
+p {
+	margin-top: 200px;
+
+}
+
+h2 {
+	font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "helvetica";
+	font-size: 26px;
+	font-weight: normal;
 
 }
 
 hr {
+	width: 50px;
+	text-align: left;
+	margin-left: 0;
+	border-color: indianred;
+	background-color: indianred;
+	color: indianred;
 
 }
 
