@@ -1,3 +1,14 @@
+.stripes {
+	background-image: url("assets/stripes.png");
+	background-repeat: repeat;
+	height: 13px;
+	padding: 0;
+}
+
+.content {
+	margin-left: 50px;
+}
+
 body {
 	background-image: url("assets/background.jpg");
 	background-repeat: no-repeat;
@@ -6,6 +17,7 @@ body {
 	background-color: #52596B;
 	background-size: cover;
 	color: #ffffff;
+	margin: 0;
 
 }
 
@@ -23,11 +35,11 @@ h2 {
 
 hr {
 	width: 50px;
-	text-align: left;
+	height: 2px;
 	margin-left: 0;
-	border-color: indianred;
-	background-color: indianred;
-	color: indianred;
+	border-color: #FD6E6E;
+	background-color: #FD6E6E;
+	color: #FD6E6E;
 
 }
 
