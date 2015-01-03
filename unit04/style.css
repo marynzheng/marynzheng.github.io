@@ -25,6 +25,7 @@ body {
 	text-align: center;
 	width: 450px;
 	position: 500 500;
+	margin: 0 auto;
 }
 
 hr {
