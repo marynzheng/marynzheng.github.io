@@ -1,0 +1,26 @@
+body {
+	background: #FFFEFA;
+	font-family: 'Lato', sans-serif;
+	text-align: center;
+	margin-top: 100px;
+}
+
+nav {
+	font-size: 12px;
+}
+
+a {
+	text-decoration: none;
+	color: #666666;
+	padding: 13px;
+	letter-spacing: 1.5px;
+}
+
+a:hover {
+	color: #D6D6D6;
+}
+
+img {
+	width: 480px;
+	padding: 40px;
+}
